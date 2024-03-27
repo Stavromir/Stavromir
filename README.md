@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Stavromir Kasapov</h1>
 
-- <p>:page_facing_up:  Experience in automation and mechanical engineering, with history of adapting to challenging work environments.Over the past year or even more, I have undertaken an intensive educational program at Software University, focusing on Java and software engineering. I'm looking for an entry-level position as a Software Engineer in a dynamic firm that provides scope for updating my knowledge. I seek a company that will help me contribute to its development while concurrently aiding my personal growth. I am eager to learn new skills, to be efficient and productive, and to broaden my professional skill set. I’m looking forward to working as a software engineer.</p>
+- <p>:page_facing_up:  Experience in automation and mechanical engineering, with history of adapting to challenging work environments. Over the past year or even more, I have undertaken an intensive educational program at Software University, focusing on Java and software engineering. I'm looking for an entry-level position as a Software Engineer in a dynamic firm that provides scope for updating my knowledge. I seek a company that will help me contribute to its development while concurrently aiding my personal growth. I am eager to learn new skills, to be efficient and productive, and to broaden my professional skill set. I’m looking forward to working as a software engineer.</p>
 - 
 - 👀 I’m interested in computer sience and programing.
 
