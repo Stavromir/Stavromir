@@ -30,7 +30,7 @@ October 2023  | ***Completed*** | *[:page_facing_up: Certificate](https://softun
 
 ### DB Module ([MySQL](https://softuni.bg/trainings/4116/mysql-may-2023) | [Spring Data](https://softuni.bg/trainings/4115/spring-data-june-2023)):
 January 2024  | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/202749/26c91c7e)*</br>
-February 2024 | ***Completed in advance*** </br>
+February 2024 | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/209321/e9c49c87)*</br>
 
 ### Web Module ([Spring Fundamental](https://softuni.bg/trainings/4235/spring-fundamentals-september-2023) | [Spring Advanced](https://softuni.bg/trainings/4236/spring-advanced-october-2023))
 May 2024 | ***Completed in advance*** </br>
